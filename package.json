@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "author": "{{author}}",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --open",
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
